@@ -7,3 +7,5 @@ var f  = b % e + 4 / e
 // Executar pelo Node.JS
 // Execute on Node.js
 // Ou abrir o terminal para prática (Não faça o Ctrl + c + Ctrl + v... Escreva e pratique)
+// Ordem de precedência 
+// Precedence Order
